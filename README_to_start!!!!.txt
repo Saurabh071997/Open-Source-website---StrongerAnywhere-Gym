@@ -7,3 +7,5 @@ Steps to be followed :
 	2.3   Product table has attributes: id, pname, image, price.
 	2.4   Location table has attribute: id, country, city , address.
 	2.5   User table hs attributes : id, firstname, lastname, email, gender, mobile, password.
+	
+The php connections and features are provided on pages: location, shop gear, membership.
